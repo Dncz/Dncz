@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my GitHub profile! 👋</h1>
 <div align="center">
 <!--   <img src="https://i.pinimg.com/originals/ea/f7/56/eaf75665e01e9302094c4d03690a934c.gif" width="300"/> -->
-  <img src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" width="400" />
+  <img src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" width="300" />
 </div>
 
 ## About me
